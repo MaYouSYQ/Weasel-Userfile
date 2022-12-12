@@ -1,0 +1,58 @@
+# Rime dictionary
+# encoding: utf-8
+#
+
+---
+name: mayousyq
+version: "2022.10.14"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+
+  #- dicts/thuocl/THUOCL_animal_hant
+  #- dicts/thuocl/THUOCL_caijing_hant
+  #- dicts/thuocl/THUOCL_car_hant
+  - dicts/thuocl/THUOCL_chengyu_hant
+  - dicts/thuocl/THUOCL_diming_hant
+  - dicts/thuocl/THUOCL_food_hant
+  - dicts/thuocl/THUOCL_IT_hant
+  #- dicts/thuocl/THUOCL_law_hant
+  - dicts/thuocl/THUOCL_lishimingren_hant
+  #- dicts/thuocl/THUOCL_medical_hant
+  #- dicts/thuocl/THUOCL_poem_hant
+
+  - dicts/luna_extended/luna_pinyin.anime
+  #- dicts/luna_extended/luna_pinyin.chaizi
+  #- dicts/luna_extended/luna_pinyin.changyong
+  #- dicts/luna_extended/luna_pinyin.chat
+  - dicts/luna_extended/luna_pinyin.cn_en
+  #- dicts/luna_extended/luna_pinyin.computer
+  #- dicts/luna_extended/luna_pinyin.english
+  - dicts/luna_extended/luna_pinyin.extra_hanzi
+  - dicts/luna_extended/luna_pinyin.game
+  #- dicts/luna_extended/luna_pinyin.hanyu
+  - dicts/luna_extended/luna_pinyin.history
+  - dicts/luna_extended/luna_pinyin.moba
+  - dicts/luna_extended/luna_pinyin.movie
+  - dicts/luna_extended/luna_pinyin.music
+  #- dicts/luna_extended/luna_pinyin.net
+  #- dicts/luna_extended/luna_pinyin.place
+  - dicts/luna_extended/luna_pinyin.poetry
+  #- dicts/luna_extended/luna_pinyin.sgmain
+  #- dicts/luna_extended/luna_pinyin.sgplus
+  #- dicts/luna_extended/luna_pinyin.sgplus2
+  #- dicts/luna_extended/luna_pinyin.shopping
+  #- dicts/luna_extended/luna_pinyin.sogoupopular
+  #- dicts/luna_extended/luna_pinyin.user
+  #- dicts/luna_extended/luna_pinyin.webdict
+  #- dicts/luna_extended/luna_pinyin.website
+  - dicts/luna_extended/luna_pinyin.wenhua
+  - dicts/luna_extended/luna_pinyin.yanwenzi
+  #- dicts/luna_extended/luna_pinyin.zhejiang
+  #- dicts/luna_extended/luna_pinyin.zhuanye
+
+  - dicts/zhwiki/zhwiki
+
+  - dicts/mayousyq/necessities
+  - dicts/mayousyq/symbols

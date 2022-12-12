@@ -1,0 +1,6 @@
+# MaYouSYQ's Custom Schema for Terra-pinyin
+# encoding: utf-8
+
+patch:
+  schema/name: 地球拼音·魔改版
+  translator/dictionary: mayousyq

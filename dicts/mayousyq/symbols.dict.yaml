@@ -1,0 +1,135 @@
+# Rime dictionary
+# encoding: utf-8
+# 字典
+---
+name: symbols
+version: "2022.10.17"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+#希腊字母
+Α	alpha	1
+α	alpha	1
+Α	aerfa	1
+α	aerfa	1
+Β	beta	1
+β	beta	1
+Β	beita	1
+β	beita	1
+Γ	gamma	1
+γ	gamma	1
+Γ	jiama	1
+γ	jiama	1
+Δ	delta	1
+δ	delta	1
+Δ	deerta	1
+δ	deerta	1
+Δ	derta	1
+δ	derta	1
+Ε	epsilon	1
+ε	epsilon	1
+Ζ	zeta	1
+ζ	zeta	1
+Η	eta	1
+η	eta	1
+Θ	theta	1
+θ	theta	1
+Ι	iota	1
+ι	iota	1
+Κ	kappa	1
+κ	kappa	1
+Λ	lambda	1
+λ	lambda	1
+Μ	mu	1
+μ	mu	1
+Ν	nu	1
+ν	nu	1
+Ξ	xi	1
+ξ	xi	1
+Ο	omicron	1
+ο	omicron	1
+∏	pi	1
+π	pi	1
+∏	pai	1
+π	pai	1
+Ρ	rho	1
+ρ	rho	1
+∑	sigma	1
+σ	sigma	1
+∑	xigema	1
+σ	xigema	1
+Τ	tau	1
+τ	tau	1
+Υ	upsilon	1
+υ	upsilon	1
+Φ	phi	1
+φ	phi	1
+Φ	fai	1
+φ	fai	1
+Χ	chi	1
+χ	chi	1
+Ψ	psi	1
+ψ	psi	1
+Ω	omega	1
+ω	omega	1
+
+#单位
+°	du4	1000
+℃	she4 shi4 du4	1000
+℉	hua2 shi4 du4	1000
+Ω	ou1 mu3	1000
+
+#方向
+↑	shang4	100
+↓	xia4	100
+←	zuo3	100
+→	you4	100
+↖	zuo3 shang4	100
+↙	zuo3 xia4	100
+↗	you4 shang4	100
+↘	you4 xia4	100
+
+#数学
+∵	because	1000
+∵	yin1 wei4	100
+∴	therefore	1000
+∴	suo3 yi3	100
+∀	forall	1000
+∀	suo3 you3	100
+∃	exists	1000
+∃	cun2 zai4	100
+∞	infty	1000
+∞	wu2 xian4	100
+∈	in	100
+∈	shu3 yu2	100
+⊂	subset	1000
+⊂	zhen1 han2 yu2	100
+⊆	subseteq	1000
+⊆	han2 yu2	100
+∫	int	100
+∫	integral	1000
+∫	ji1 fen1	100
+∮	oint	100
+∮	ji1 fen1	90
+
+#其它
+✔	gou1	1000
+✔	dui4	500
+✖	cha1	1000
+✖	cuo4	500
+♂	nan2	100
+♀	nv3	100
+♥	xin1	100
+♥	ai4 xin1	1000
+★	xing1	100
+✩	xing1	100
+★	xing1 xing	1000
+✩	xing1 xing	1000
+囗	kuang1	100
+♪	yin1 fu2	100
+♫	yin1 fu2	100
+∆	triangle	1000
+∆	san1 jiao3	100
+∇	nabla	1000
+∇	dao4 san1 jiao3	100

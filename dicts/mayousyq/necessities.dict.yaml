@@ -1,0 +1,12 @@
+# Rime dictionary
+# encoding: utf-8
+# 字典
+---
+name: necessity
+version: "2022.10.16"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+的  d
+了  l

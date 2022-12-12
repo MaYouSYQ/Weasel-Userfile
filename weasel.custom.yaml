@@ -1,0 +1,21 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Oct 14 20:09:53 2022"
+  rime_version: 1.5.3
+patch:
+  "preset_color_schemes/mayousyq":
+    author: "MaYouSYQ https://space.bilibili.com/39468669"
+    back_color: 0xa0e2ff
+    border_color: 0x787878
+    candidate_text_color: 0xffa641
+    comment_text_color: 0x6d62ff
+    hilited_back_color: 0xffffff
+    hilited_candidate_back_color: 0x8bcdf9
+    hilited_candidate_text_color: 0xffa241
+    hilited_comment_text_color: 0x6d62ff
+    hilited_text_color: 0xffa641
+    name: "马又SYQ／MaYouSYQ"
+    text_color: 0xffa641
+  "style/color_scheme": mayousyq
